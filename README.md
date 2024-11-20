@@ -144,6 +144,12 @@ section **Function to calculate Average Power of the LTS frames represented as v
 This code gives you the Variance of the Power of the LTS frame vectors, by running the function in 
 section **Function to calculate the Variance of the Power of the LTS frames represented as vectors**
 
+## Generator Model Parameters
+
+Generator Model saved at 1 iteration : https://drive.google.com/file/d/1gQqTiDXsdC3cjQ8spv885-T4leYbLY4j/view?usp=share_link
+Generator Model saved at 60000 iterations : https://drive.google.com/file/d/1UpOyWCd6g_yglTnZ50Qm2wcAXNmEHhvU/view?usp=share_link
+ 
+We have uploaded the drive link which will direct to the model parameter files.
 
  
 
