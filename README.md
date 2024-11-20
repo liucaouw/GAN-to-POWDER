@@ -23,7 +23,11 @@ Thus:
 - The dimension of the provided dataset = $8192 \times 2 \times 1 \times 1 \times 4000$, where $8192 = 2 * 4096$ (2 * indicates I and Q components, and $4096$ is total \# of IQ samples per frame), $2$ is \# of BS antennas, $1$ is \# of BSs, $1$ is \# of UEs. $4000$ is \# of frames.
     
 We select a POWDER dataset for the link - Location $8$ to the $1^{st}$ antenna of BS "EBC" as the real dataset used for GAN training}, 
-where Location $8$ and BS "EBC" are shown in Fig. \ref{fig:P_map}.
+where Location $8$ and BS "EBC" are shown below:
+
+
+![Alt Text](https://github.com/liucaouw/GAN-to-POWDER/blob/main/D_A_T.png)
+
 
 Note that there are a total of $14 \times 5 \times 2 = 140$ links ($14$ client locations, $5$ BS locations, and $2$ antennas per BS) for the collected dataset. 
 We need to train $140$ separate GANs for the $140$ collected datasets. The proposed GAN algorithm can be applied to all $140$ datasets. 
@@ -46,12 +50,12 @@ Now, for the GAN model we have the following architecture for Generator and Disr
 
 ## Generator
 
-![Alt Text](image_path_or_url)
+![Alt Text](https://github.com/liucaouw/GAN-to-POWDER/blob/main/G_A_T.png)
 
 
 ## Discriminator
 
- ![Alt Text](image_path_or_url)
+ ![Alt Text](https://github.com/liucaouw/GAN-to-POWDER/blob/main/D_A_T.png)
 
 ## Training parameters
 
