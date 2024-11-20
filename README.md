@@ -11,7 +11,7 @@ We have uploaded the drive link which will direct to the model parameter files, 
 for which Github doesn't allow to upload file size greater than 25 MB.
 
 
-## POWDER data discription
+## POWDER data description
 
 The datasets are stored in HDF5 files containing both metadata and raw IQ samples for
 each link at which data was collected. The client transmit to BS with the following frame schedule: `GGGGGGGPGGGGGGG`
