@@ -26,7 +26,7 @@ We select a POWDER dataset for the link - Location $8$ to the $1^{st}$ antenna o
 where Location $8$ and BS "EBC" are shown below:
 
 
-![Alt Text](https://github.com/liucaouw/GAN-to-POWDER/blob/main/D_A_T.png)
+![Alt Text](https://github.com/liucaouw/GAN-to-POWDER/blob/main/POWDER_map.png)
 
 
 Note that there are a total of $14 \times 5 \times 2 = 140$ links ($14$ client locations, $5$ BS locations, and $2$ antennas per BS) for the collected dataset. 
