@@ -1,5 +1,5 @@
 # GAN-to-POWDER
-
+This code is to generate the results in the technical report at https://wp.ece.uw.edu/wp-content/uploads/sites/36/2024/11/Techical-Report-GAN-to-POWDER.pdf
 
 ## POWDER data discription
 
