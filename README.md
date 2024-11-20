@@ -1,6 +1,16 @@
 # GAN-to-POWDER
 This code is to generate the results in the technical report at https://wp.ece.uw.edu/wp-content/uploads/sites/36/2024/11/Techical-Report-GAN-to-POWDER.pdf
 
+
+## Generator Model Parameters
+
+- Generator Model saved at 1 iteration : https://drive.google.com/file/d/1gQqTiDXsdC3cjQ8spv885-T4leYbLY4j/view?usp=share_link
+- Generator Model saved at 60000 iterations : https://drive.google.com/file/d/1UpOyWCd6g_yglTnZ50Qm2wcAXNmEHhvU/view?usp=share_link
+ 
+We have uploaded the drive link which will direct to the model parameter files, because the Generator model paramter file's size is greater than 25 MB,
+for which Github doesn't allow to upload file size greater than 25 MB.
+
+
 ## POWDER data discription
 
 The datasets are stored in HDF5 files containing both metadata and raw IQ samples for
@@ -144,12 +154,7 @@ section **Function to calculate Average Power of the LTS frames represented as v
 This code gives you the Variance of the Power of the LTS frame vectors, by running the function in 
 section **Function to calculate the Variance of the Power of the LTS frames represented as vectors**
 
-## Generator Model Parameters
 
-Generator Model saved at 1 iteration : https://drive.google.com/file/d/1gQqTiDXsdC3cjQ8spv885-T4leYbLY4j/view?usp=share_link
-Generator Model saved at 60000 iterations : https://drive.google.com/file/d/1UpOyWCd6g_yglTnZ50Qm2wcAXNmEHhvU/view?usp=share_link
- 
-We have uploaded the drive link which will direct to the model parameter files.
 
  
 
